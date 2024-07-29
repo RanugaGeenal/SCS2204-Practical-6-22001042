@@ -1,6 +1,6 @@
 import scala.io.StdIn
 
-object StudentRecordSystem {
+object q2{
 
   def validateInput(name: String, marks: Int, totalMarks: Int): (Boolean, Option[String]) = {
     if (name.isEmpty) {
