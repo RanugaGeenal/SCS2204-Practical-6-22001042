@@ -1,4 +1,4 @@
-object InventorySystem {
+object q1{
 
   type ProductDetails = (String, Int, Double)
 
